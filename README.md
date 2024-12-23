@@ -16,13 +16,14 @@ A simple and interactive Flutter application to calculate and interpret Body Mas
 
 ## Screenshots
 
-| Home Screen | Result Screen | About BMI | Navigation Bar |
+| Home Screen | Navigation Bar | Result Screen | About BMI |
 |:-----------:|:-------------:|:---------:|:--------------:|
-| home.png    | result.png    | about.png | navbar.png     |
+| <img src="https://github.com/user-attachments/assets/5b975c16-f5be-414d-9a40-30ea39948c4d" alt="home.png" width="300px"/>  | <img src="https://github.com/user-attachments/assets/f2d56394-25ef-40d8-900e-2d733b3c6c3c" alt="navbar.png" width="300px"/> | <img src="https://github.com/user-attachments/assets/93d16667-686c-41c3-8bc2-0a505c386a0d" alt="result.png" width="300px" /> | <img src="https://github.com/user-attachments/assets/903acf8f-56ad-48fd-bef0-860597e2244c" alt="about.png" width="300px" />
+
 
 | Light Mode | Dark Mode |
 |:----------:|:---------:|
-| light.png  | dark.png  |
+| <img src="https://github.com/user-attachments/assets/01225329-77f9-43b8-8435-19ad35d63636" alt="light.png" width="300px" /> | <img src="https://github.com/user-attachments/assets/3ab15c62-cf61-4452-b5e9-e60dbd4abd44" alt="dark.png" width="300px" /> |
 
 ---
 
