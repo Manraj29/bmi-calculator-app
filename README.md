@@ -12,7 +12,7 @@ A simple and interactive Flutter application to calculate and interpret Body Mas
 - **Smooth Navigation**: Includes a loading screen before displaying results to enhance the user experience.
 - **Simple and Intuitive UI**: A clean design for easy input and understanding of BMI results.
 - **Proper Error Handling**: The app validates user input and displays error messages for incorrect data.
-
+- 
 ---
 
 ## Screenshots
