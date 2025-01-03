@@ -50,11 +50,11 @@ A simple and interactive Flutter application to calculate and interpret Body Mas
 
 ## How BMI is Calculated
 Example Calculations:
-- **Adult Male (25 years, 178 cm, 69.8 kg):**
+- COnsidering **Adult Male (25 years, 178 cm, 69.8 kg):**
     - BMI = 24.2 (Normal weight)
-- **Adult Female (35 years, 162.5 cm, 59.9 kg):**
+- Considering **Adult Female (35 years, 162.5 cm, 59.9 kg):**
     - BMI = 22.1 (Normal weight)
-- **Child (10 years, 142.5 cm, 38.6 kg):**
+- Considering **Child (10 years, 142.5 cm, 38.6 kg):**
     - BMI-for-age percentile = 50th percentile (Normal weight)
 
 ---
